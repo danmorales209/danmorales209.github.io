@@ -1,0 +1,74 @@
+[
+  {
+    "img" : "./images/lotr.jpg",
+    "description" : "A LOTR-themed hangman game",
+    "url" :"https://danmorales209.github.io/word-guess-game/",
+    "title": "Word Guess Game"
+  },
+  {
+    "img" : "./images/deathStar.jpeg",
+    "description" : "A Star wars themed web RPG game",
+    "url" :"https://danmorales209.github.io/jQuery-Assignment/",
+    "title": "jQuery Assignment"
+  },
+  {
+    "img" : "../images/xtraLife.png",
+    "description" : "A Super Mario Bro's trivia game web app",
+    "url" :"https://danmorales209.github.io/trivia-game/",
+    "title": "Trivia Game"
+  },
+  {
+    "img" : "./images/nyan.gif",
+    "description" : "A Small GIF search using AJAX and Local Storage",
+    "url" :"https://danmorales209.github.io/giphy-api-assignment/",
+    "title": "Gif Search"
+  },
+  {
+    "img" : "./images/train.png",
+    "description" : "A train scheduler using Firebase",
+    "url" :"https://danmorales209.github.io/firebase-assignment/",
+    "title": "Train Scheduler"
+  },
+  {
+    "img" : "./images/broccoli.jpg",
+    "description" : "A web Application to search for recipes sorted by ingredient weight, and display restaurants near the user",
+    "url" :"https://danmorales209.github.io/project-dan/",
+    "title": "Too Much Food"
+  },
+  {
+    "img" : "./images/hal9000.png",
+    "description" : "A Node CLI to search for bands, artists, and concerts",
+    "url" :"https://github.com/danmorales209/liri-node-app",
+    "title": "LIRI Node App"
+  },
+  {
+    "img" : "./images/terminal.jpg",
+    "description" : "A Node CLI Storefont using MySQL for inventory management",
+    "url" :"https://github.com/danmorales209/node-mysql-store",
+    "title": "Bamazon"
+  },
+  {
+    "img" : "./images/high-five.jpg",
+    "description" : "A NodeJS / Express.js social compatiblilty app",
+    "url" :"https://shrouded-shelf-56314.herokuapp.com/",
+    "title": "Friend Finder"
+  },
+  {
+    "img" : "./images/burger.png",
+    "description" : "A web app using express.js, handlebars, and a custom MySQL ORM",
+    "url" :"https://pacific-taiga-52007.herokuapp.com/",
+    "title": "Burger Time"
+  },
+  {
+    "img" : "./images/scraper.jpg",
+    "description" : "A web scraper built using Node.js, express, handlebars, and cheerio. ",
+    "url" :"https://mighty-thicket-97023.herokuapp.com",
+    "title": "Web Scraper"
+  },
+  {
+    "img" : "./images/pointer.png",
+    "description" : "A web based app using React, core Javascript, HTML5 and CSS3",
+    "url" :"https://danmorales209.github.io/my-clicky-app",
+    "title": "My Clicky App"
+  }
+]

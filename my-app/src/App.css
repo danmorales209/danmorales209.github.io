@@ -1,0 +1,26 @@
+
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  height: auto;
+  line-height: 1.5;
+  margin: 0;
+  padding-bottom: 20px;
+  text-shadow: 1px 1px 2px black;
+}
+
+#profile-pic {
+  border-radius: 25px;
+  margin: 3%;
+}
+
+.spacer {
+  height: 50px;
+}
+
+.container {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
